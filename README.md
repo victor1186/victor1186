@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @victor1186
+- 👋 Hi, I’m @victor leon
 - 👀 I’m interested in learning new staff
-- 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
